@@ -9,7 +9,10 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-eventually`, // This path is subpath of your hosting https://domain/portfolio
   // social
-  authorSocialLinks: [
+  heading: 'Eventually',
+  subHeading:
+    "A simple template for telling the world when you'll launch your next big thing.",
+  socialLinks: [
     {
       icon: 'fa-github',
       name: 'Github',
