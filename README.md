@@ -42,7 +42,10 @@ Edit `config.js` to put up your details
 module.exports = {
   siteTitle: 'Gatsby Starter Eventually', // <title>
   ...
-  authorSocialLinks: [
+   =heading: 'Eventually',
+  subHeading:
+    "A simple template for telling the world when you'll launch your next big thing.",
+  socialLinks: [
     {
       icon: 'fa-github',
       name: 'Github',
