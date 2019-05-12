@@ -6,7 +6,7 @@ For an overview of the project structure please refer to the [Gatsby documentati
 
 ![Screenshot](./src/assets/img/eventually.jpg)
 
-Check online demo [here](https://anubhavsrivastava.github.io/gatsby-starter-eventually/)
+Check online preview [here](https://anubhavsrivastava.github.io/gatsby-starter-eventually/)
 
 ## Screenshot
 
