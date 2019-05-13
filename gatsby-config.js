@@ -12,7 +12,7 @@ module.exports = {
       options: {
         name: config.manifestName,
         short_name: config.manifestShortName,
-        start_url: config.pathPrefix || config.config.manifestStartUrl,
+        start_url: config.pathPrefix || config.manifestStartUrl,
         background_color: config.manifestBackgroundColor,
         theme_color: config.manifestThemeColor,
         display: config.manifestDisplay,
